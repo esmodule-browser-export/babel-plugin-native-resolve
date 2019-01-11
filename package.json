@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-native-resolve",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make ES6 imports work in the browser",
   "main": "index.js",
   "author": "misterfresh",
