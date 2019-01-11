@@ -1,0 +1,16 @@
+{
+  "name": "babel-plugin-native-resolve",
+  "version": "1.0.0",
+  "description": "Make ES6 imports work in the browser",
+  "main": "index.js",
+  "author": "misterfresh",
+  "license": "MIT",
+  "homepage": "https://github.com/esmodule-browser-export/babel-plugin-native-resolve#readme",
+  "bugs": {
+    "url": "https://github.com/esmodule-browser-export/babel-plugin-native-resolve/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esmodule-browser-export/babel-plugin-native-resolve.git"
+  }
+}
